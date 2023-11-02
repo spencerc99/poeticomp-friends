@@ -1,20 +1,20 @@
 [
   {
-    "name": "Spencer Chang",
+    "name": "spencer",
     "url": "https://spencerchang.me",
     "dimensions": {
       "width": 999,
       "height": 399
     }
   },
-  { "url": "https://kayserifserif.place/" },
-  { "url": "https://henry.codes" },
-  { "url": "https://liuleslie.github.io" },
-  { "url": "https://anhvn.com" },
-  { "url": "https://mangotango.mmm.page" },
-  { "url": "https://jzhao.xyz" },
-  { "url": "https://index.niksethi.com/" },
-  { "url": "https://cloudlord.management/" },
-  { "url": "https://azlen.me" },
-  { "url": "https://ivanzhao.me" }
+  { "url": "https://kayserifserif.place/", "name": "katherine" },
+  { "url": "https://henry.codes", "name": "henry" },
+  { "url": "https://liuleslie.github.io", "name": "leslie" },
+  { "url": "https://anhvn.com", "name": "anh" },
+  { "url": "https://mangotango.mmm.page", "name": "alicia" },
+  { "url": "https://jzhao.xyz", "name": "jacky" },
+  { "url": "https://index.niksethi.com/", "name": "nikhil" },
+  { "url": "https://cloudlord.management/", "name": "kristoffer" },
+  { "url": "https://azlen.me", "name": "azlen" },
+  { "url": "https://ivanzhao.me", "name": "ivan" }
 ]
